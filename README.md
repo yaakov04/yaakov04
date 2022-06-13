@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hola 👋 soy Diego Briones
 
-<!--
-**yaakov04/yaakov04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Backend 👩🏼‍💻
 
-Here are some ideas to get you started:
+Entusiasta de la lógica, la tecnología y Linux. Soy una persona flexible, que le gusta aprender y compartir su conocimiento con los demás. <br>
+Me interesa el desarrollo de la lógica y funcionalidad de los componentes de una aplicación web. <br>
+Busco un lugar en el cual crecer como Desarrollador Web y aportar mi conocimiento y mi entusiasmo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚡️ &nbsp;Tecnologías
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-orange)
+![CSS3](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883)
+![Java](https://img.shields.io/badge/-Java-fff)
+![PHP](https://img.shields.io/badge/-PHP-8892bf)
+![Laravel](https://img.shields.io/badge/-Laravel-8892bf)
+
+
+### 🚀 &nbsp;Aficiones
+
+
+🎸 &nbsp;Escuchar música<br>
+📗 &nbsp;Comprar libros<br>
+
+
+### 📬 &nbsp;Contacto
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dieg04-briones/)
+
